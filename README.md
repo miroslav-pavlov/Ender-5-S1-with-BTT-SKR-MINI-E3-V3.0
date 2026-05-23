@@ -64,7 +64,7 @@ Try using [this reddit port](https://www.reddit.com/r/Ender3S1/comments/1685mug/
 1. You can use the mount from the description of [this YouTube video](https://www.youtube.com/watch?v=VSVQrhhNqhA).
 2. Funnel all RPi cables through the cable hole on the back of the printer.
 3. Optionally you can buy [this screen](https://www.aliexpress.com/item/1005008082461104.html) for [KlipperScreen](https://klipperscreen.readthedocs.io). It fits in the mount from the video and has my recommendations.
-# 10. 3D Printing a mount for the board
+## 10. 3D Printing a mount for the board
 1. Because the holes of the BTT board don't match the original one, I made a 3D printable mount which screws in the place of the old board. If you've fried the old board like me, you can leave the new one floating until the mount has been printed.
 2. Use the picture from the start of the guide to correctly mount the board. You'll need a couple of small bolts and nuts or 3D print a couple of shafts to keep the board in place.
 ## 11. Connecting the board fan  

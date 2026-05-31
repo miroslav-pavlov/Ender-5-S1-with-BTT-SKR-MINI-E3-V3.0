@@ -1,5 +1,5 @@
 # Creality Ender-5 S1 with BIGTREETECH SKR MINI E3 V3.0 board
-<img width="306" height="408" alt="20260523_224820" src="https://github.com/user-attachments/assets/a4a3cd08-6944-4229-92f7-50923e14d470" />  
+<img width="306" height="408" alt="20260523_224820" src="what_to_expect.jpg" />  
 
 This is an old project I did after frying the original board and not finding an exact replacement. It's beautiful, isn't it?  
 

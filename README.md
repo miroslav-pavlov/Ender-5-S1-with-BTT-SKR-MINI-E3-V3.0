@@ -22,14 +22,14 @@ This is an old project I did after frying the original board and not finding an 
 ---
 ## 1. Connecting the 30-Pin Cable
 > [!NOTE]
-> - The big ribbon cable connects to a single 30-pin port on the original board but branches into 2 cables (24-pin and 6-pin). They are mapped next to each other in the spreadsheet
-> - You can find the orientation of your ribbon cable based on the white wire which is used for grounding and is also colored white in the spreadsheet.
+> - The big ribbon cable connects to a single 30-pin port on the original board but branches into 2 cables (24-pin and 6-pin). They are mapped next to each other in [the spreadsheet](Ender-5%20S1%20Cable%20Pinouts.xlsx)
+> - You can find the orientation of your ribbon cable based on the white wire which is used for grounding and is also colored white in the [the spreadsheet](Ender-5%20S1%20Cable%20Pinouts.xlsx).
 > - The BL Touch colour table is for cross-referencing with wiring tutorials for the BL Touch as the Ender-5 S1 one has all black cables.
 > - The numbering of the motors and BL Touch pins (E1-E4, Y1-Y4, X1-X4 and BL1-BL5) is based on their location on the printer and is for easier verification of connections.
 > - Use a multimeter to check if you did everything correctly.
 ### Steps
 1. Cut the board end of the ribbon cable and remove a part of the plastic shielding.  
-2. Use the spreadsheet to crimp the cables with new connectors, then connect them to these ports:
+2. Use [the spreadsheet](Ender-5%20S1%20Cable%20Pinouts.xlsx) to crimp the cables with new connectors, then connect them to these ports:
 - The **E-Motor** connects to port **EM**.
 - The **BL Touch** connects to **Z-PROBE**. Unfortunately, I can't remember how I mapped the BL Touch, but I found this guide with the same model (ALT04) where the GND wires are the same color as in my spreadsheet, so I am inclined to believe him.
 - The **thermistor** connects to port **TH0**. It has no polarity and can be connected both ways.
@@ -39,7 +39,7 @@ This is an old project I did after frying the original board and not finding an 
 - The **X-Motor** connects to port **XM**
 ## 2. Connecting the Y-Stop and Y-Motor
 1. Cut the board end of the ribbon cable and remove a part of the plastic shielding.  
-2. Use the spreadsheet to crimp the cables with new connectors, then connect them to these ports:
+2. Use [the spreadsheet](Ender-5%20S1%20Cable%20Pinouts.xlsx) to crimp the cables with new connectors, then connect them to these ports:
 - The **Y-Stop** connects to **Y-Stop**. It has no polarity.
 - The **Y-Motor** connects to port **YM**.
 ## 3. Connecting the Z-Motor
